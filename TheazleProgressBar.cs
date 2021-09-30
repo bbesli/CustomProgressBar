@@ -35,7 +35,7 @@ namespace MayenFileInstaller.CustomProgressBar
             this.ForeColor = Color.White;
         }
 
-        [Category("Theazle B Advence")]
+        [Category("Theazle B")]
         public Color ChannelColor
         {
             get
@@ -49,7 +49,7 @@ namespace MayenFileInstaller.CustomProgressBar
             }
         }
 
-        [Category("Theazle B Advence")]
+        [Category("Theazle B")]
         public Color SliderColor
         {
             get
@@ -64,7 +64,7 @@ namespace MayenFileInstaller.CustomProgressBar
             }
         }
 
-        [Category("Theazle B Advence")]
+        [Category("Theazle B")]
         public Color ForeBackColor
         {
             get
@@ -79,7 +79,7 @@ namespace MayenFileInstaller.CustomProgressBar
             }
         }
 
-        [Category("Theazle B Advence")]
+        [Category("Theazle B")]
         public int ChannelHeight
         {
             get
@@ -94,7 +94,7 @@ namespace MayenFileInstaller.CustomProgressBar
             }
         }
 
-        [Category("Theazle B Advence")]
+        [Category("Theazle B")]
         public int SliderHeight
         {
             get
@@ -108,7 +108,7 @@ namespace MayenFileInstaller.CustomProgressBar
 
             }
         }
-        [Category("Theazle B Advence")]
+        [Category("Theazle B")]
         public TextPosition ShowValue
         {
             get
@@ -122,7 +122,7 @@ namespace MayenFileInstaller.CustomProgressBar
 
             }
         }
-        [Category("Theazle B Advence")]
+        [Category("Theazle B")]
         [Browsable(true)]
         [EditorBrowsable(EditorBrowsableState.Always)]
         public override Font Font
@@ -137,7 +137,7 @@ namespace MayenFileInstaller.CustomProgressBar
             }
         }
 
-        [Category("Theazle B Advence")]
+        [Category("Theazle B")]
         public override Color ForeColor
         {
             get
